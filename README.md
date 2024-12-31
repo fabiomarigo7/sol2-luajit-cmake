@@ -4,6 +4,11 @@ Simple project to merge this repositories:
 * Sol2 by ThePhD (https://github.com/ThePhD/sol2)
 * LuaJIT & CMake by WohlSoft (https://github.com/WohlSoft/LuaJIT)
 
+To clone the repo:
+```
+git clone --recurse-submodules -j8 https://github.com/fabiomarigo7/sol2-luajit-cmake.git
+```
+
 The `main.cpp` file is very simple:
 
 ```cpp

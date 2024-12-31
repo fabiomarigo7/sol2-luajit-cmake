@@ -57,6 +57,8 @@ int main() {
 
 ```
 
-Tested on `macOS Clang 15.0.0 arm64-apple-darwin23.4.0`.
+Tested on:
+* `macOS Clang 15.0.0 arm64-apple-darwin23.4.0`
+* `msvc_x64_x64` (on a Windows 10 machine with VS19)
 
 All credits to the owners.

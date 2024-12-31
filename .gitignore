@@ -16,6 +16,7 @@ out/*
 #cmake
 /build/
 /build-*/
+CMakeSettings.json
 
 #Mac OS junk
 .DS_Store

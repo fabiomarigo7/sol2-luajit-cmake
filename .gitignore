@@ -11,6 +11,7 @@
 .tags
 .vscode/*
 .vs/*
+out/*
 
 #cmake
 /build/

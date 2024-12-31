@@ -1,7 +1,7 @@
 # Sol2 + LuaJIT  + CMake
 
 Simple project to merge this repositories:
-* Sol2 by ThePhD (https://github.com/WohlSoft/LuaJIT)
+* Sol2 by ThePhD (https://github.com/ThePhD/sol2)
 * LuaJIT & CMake by WohlSoft (https://github.com/WohlSoft/LuaJIT)
 
 The `main.cpp` file is very simple:

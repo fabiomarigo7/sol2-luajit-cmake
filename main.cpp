@@ -1,12 +1,3 @@
-# Sol2 + LuaJIT  + CMake
-
-Simple project to merge this repositories:
-* Sol2 by ThePhD (https://github.com/WohlSoft/LuaJIT)
-* LuaJIT & CMake by WohlSoft (https://github.com/WohlSoft/LuaJIT)
-
-The `main.cpp` file is very simple:
-
-```cpp
 #include <sol/sol.hpp>
 #include <lua.hpp>
 #include <string>
@@ -49,9 +40,3 @@ int main() {
 
     return 0;
 }
-
-```
-
-Tested on `macOS Clang 15.0.0 arm64-apple-darwin23.4.0`.
-
-All credits to the owners.
